@@ -49,6 +49,14 @@ font-family: 'Roboto', sans-serif;
 font-size: medium;
 font-size: 20px;
 }
+.medium-image {
+    width: 450px;
+    height: 280px;
+border-radius: 1rem;
+float: right;
+margin-top: -350px;
+padding-right: 100px;
+}
 
 p {
     font-family: 'Open Sans', sans-serif;
